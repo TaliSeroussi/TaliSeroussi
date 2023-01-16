@@ -1,6 +1,5 @@
-- 👋 היי, אני טלי ופרופיל הגיטהאב הזה מכיל חלק מהעבודות שעשיתי במהלך השירות הצבאי שלי במדור טי"ל במפקדת קריית ההדרכה. 
-- ✨ תוצרים אלו נבנו באמצעות HTML, CSS, JS, וכמו כן בחלקם נעזרתי בספריות React, firebase ו-jQuery.
-- חלק מהתוצרים מיועדים לטלפונים ניידים וחלקם למחשבים.
-- 🌱 כרגע אני לומדת Redux ו-Next.
-- 👀 אני מעוניינת בעבודה בתחום הפרונט אנד.
-- 📫 אשמח לפניות במייל: talsero104@gmail.com.
+- 👋 Hello, my name is Tali and this profile contains part of the projects I have created during my military service. 
+- ✨ Those products were built by HTML, CSS, JS,and I also used varied frameworks such as React, Firebase and jQuery.
+- Part of the products are scaled for computers and some for phones- read the description.
+- 👀 I am currently seeking a Front-End position/projects.
+- 📫 I f it sounds like a fit, write to me an email: talsero104@gmail.com.
