@@ -1,5 +1,6 @@
-- 👋 Hello, my name is Tali and this profile contains part of the projects I have created during my military service. 
-- ✨ Those products were built by HTML, CSS, JS,and I also used varied frameworks such as React, Firebase and jQuery.
+- 👋 Hello, my name is Tali and i am a computer science student at the Technion.
+- This profile contains part of the projects I have created during my military service. 
+- ✨ Those products were built by HTML, CSS, JS, and I also used varied frameworks such as React, Firebase and jQuery.
 - Part of the products are scaled for computers and some for phones- read the description.
-- 👀 I am currently seeking a Front-End position/projects.
+- 👀 I am currently seeking a software devlopment student position.
 - 📫 I f it sounds like a fit, write to me an email: talsero104@gmail.com.
