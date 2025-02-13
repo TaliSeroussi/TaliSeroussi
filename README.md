@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Tali and i am a computer science student at the Technion.
+- 👋 Hello, my name is Tali and I am a computer science student at the Technion.
 - This profile contains part of the projects I have created during my military service. 
 - ✨ Those products were built by HTML, CSS, JS, and I also used varied frameworks such as React, Firebase and jQuery.
 - Part of the products are scaled for computers and some for phones- read the description.
